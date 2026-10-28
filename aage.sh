@@ -1,4 +1,5 @@
 #!/bin/bash
+#Ce script permet de vérifier l'age"
 
 read -p "votre age : " age
 Age=$age
